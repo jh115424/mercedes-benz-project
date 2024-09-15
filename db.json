@@ -1,0 +1,54 @@
+
+
+{
+    "images": {
+      "exterior": [
+        {
+          "perspectives": [
+            "string"
+          ],
+          "imageTypes": [
+            "string"
+          ],
+          "states": [
+            "string"
+          ],
+          "imageKeys": [
+            "string"
+          ]
+        }
+      ],
+      "interior": [
+        {
+          "perspectives": [
+            "string"
+          ],
+          "imageTypes": [
+            "string"
+          ],
+          "states": [
+            "string"
+          ],
+          "imageKeys": [
+            "string"
+          ]
+        }
+      ],
+      "special": [
+        {
+          "perspectives": [
+            "string"
+          ],
+          "imageTypes": [
+            "string"
+          ],
+          "states": [
+            "string"
+          ],
+          "imageKeys": [
+            "string"
+          ]
+        }
+      ]
+    }
+  }
